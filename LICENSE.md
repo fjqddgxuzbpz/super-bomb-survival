@@ -19,6 +19,8 @@ Key highlights include:
 - 🔮 **Bomb Predictor** — calculates blast zones in advance and pre-positions for safe spots
 - 🏆 **Win Streak Farm** — survives every round on loop to build and maintain long win streaks
 
+### [⬇️ Download Super Bomb Survival Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
